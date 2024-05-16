@@ -7,6 +7,7 @@ This repository contains the code for the "Coarse-to-Fine Document Image Registr
 ## Results on DIRD benchmark for document image registration
 
 Here are our registered results on [DRID](https://drive.google.com/file/d/1Hq_ZiBlI_9cpt0UV9cNI67tNFQvFyruz/view?usp=drive_link)
+
 Here are our dewarping results on [DRID](https://drive.google.com/)
 
 ## Open-source planning 
